@@ -212,7 +212,7 @@ p {
   margin: 0;
   position: relative;
   height: 890px;
-  background-color: #f2f2f2; 
+  background-color: #f2f2f2;
   z-index: 1;
 }
 
@@ -291,7 +291,6 @@ p {
 }
 
 .section-subtitle_theme_dark {
-  margin: 0;
   padding: 0;
   width: 60%;
   margin: 20px auto 0;
@@ -304,7 +303,6 @@ p {
 }
 
 .table_theme_dark {
-  margin: 0;
   padding: 0;
   display: flex;
   flex-wrap: wrap;
