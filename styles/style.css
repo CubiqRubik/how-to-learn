@@ -35,7 +35,7 @@
   width: 730px;
   margin: 0;
   padding: 0;
-  line-height: 93px;
+  line-height: 96px;
   font-size: 102px;
   font-weight: 600;
   margin-left: 64px;
@@ -344,6 +344,7 @@
 
 
 .footer__author {
+  margin: 0;
   padding: 18px 0 18px;
   line-height: 25px;
   font-size: 18px;
