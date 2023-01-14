@@ -6,3 +6,8 @@
     /* position: absolute; */
     color: #2f80ed;
   }
+
+  .header__link:hover {
+    opacity: .5;
+    transition: .6s;
+  }
